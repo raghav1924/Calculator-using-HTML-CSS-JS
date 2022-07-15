@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Bebas Neue', cursive;
+/*   background: black; */
+}
+.button{
+  padding:20px;
+  margin: 0px 3px;
+  border:none;
+  border-radius:25px;
+  cursor: pointer;
+  font-size:1.3rem;
+  font-family: 'Bebas Neue', cursive;
+  background:#cbcbcb;
+}
+.row:nth-child(2) button{
+  width:4rem;
+  width: 14rem;
+    padding: 13px 1px;
+}
+.row{
+  margin: 7px 0px;
+}
+.row input{
+  margin: 0;
+    padding: 30px 1px;
+    border: none;
+    border-radius: 8px;
+  background: #cbcbcb;
+  font-family: 'Bebas Neue', cursive;
+  font-size:1.5rem;
+}
